@@ -15,10 +15,8 @@ My development files:
 2. home component
 
 I was strong in:
-1. HTML
-2. Css
-3. Documentation
-4.Angular
+1.Angular
+2.json server
 
 Feedback:
 1. Had a good experience and learn a lot things from this exercise.
