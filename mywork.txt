@@ -1,0 +1,24 @@
+My associate id:
+845141
+
+Other team members:
+845087,845139, 845138,845026
+
+Team lead:
+845087
+
+My Role in team:
+1. Developed contact us page and home page
+ 
+My development files:
+1. contact-us component
+2. home component
+
+I was strong in:
+1. HTML
+2. Css
+3. Documentation
+4.Angular
+
+Feedback:
+1. Had a good experience and learn a lot things from this exercise.
